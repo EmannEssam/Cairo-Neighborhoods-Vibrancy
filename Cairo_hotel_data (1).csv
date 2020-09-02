@@ -1,0 +1,435 @@
+location_id,name,latitude,longitude,num_reviews,rating,neighborhoods
+1597516,Kempinski Nile Hotel Cairo,30.03882,31.2305,2531,4.5,qasr el nile
+301746,Le Passage Cairo,30.121655,31.400833,2587,4.5,an-nuzhah
+580690,Fairmont Nile City,30.071869,31.227592,3952,4.5,rud el farag
+1200790,Novotel Cairo El Borg,30.043905,31.22698,1193,4,Zamalek
+10356829,Steigenberger Hotel El Tahrir,30.04658,31.235418,852,4.5,qasr el nile
+614748,Osiris Hotel,30.042412,31.241535,491,4.5,abdin
+308091,Grand Nile Tower,30.03444,31.226797,809,3.5,Misr al qadima
+1194224,City View Hotel,30.04604,31.23528,403,4,qasr el nile
+299611,Novotel Cairo Airport,30.121103,31.40188,1891,3.5,an-nuzhah
+8489537,Royal Maxim Palace Kempinski Cairo,30.060131,31.419552,1211,4.5,al-qahirah al jadidah 2
+300669,Ramses Hilton,30.050388,31.231968,3780,4,bulaq
+308077,Four Seasons Hotel Cairo at Nile Plaza,30.036192,31.22931,1595,4.5,qasr el nile
+299719,Cairo Marriott Hotel & Omar Khayyam Casino,30.057112,31.224815,3105,4.5,Zamalek
+302720,Conrad Cairo,30.065533,31.227953,2294,4.5,al-qahirah al jadidah 2
+302323,"Sonesta Hotel, Tower & Casino Cairo",30.078995,31.317835,1044,4,Madinat Nasr 1 
+299113,InterContinental Cairo Semiramis,30.043428,31.23198,2429,4.5,qasr el nile
+481920,Baron Hotel Heliopolis Cairo,30.086117,31.331484,676,4,Heliopolis
+301551,Golden Tulip Flamenco,30.065762,31.21621,426,3.5,Zamalek
+4267134,Renaissance Cairo Mirage City Hotel,30.074835,31.439438,639,4.5,al-qahirah al jadidah 2
+8704648,"The Nile Ritz-Carlton, Cairo",30.045961,31.232328,954,4.5,qasr el nile
+301243,Concorde El Salam Hotel Cairo by Royal Tulip,30.123835,31.348095,680,4,an-nuzhah
+1673020,Egyptian Night Hotel,30.04749,31.234901,137,4,qasr el nile
+2708329,Hotel Grand Royal,30.047344,31.238403,327,4,abdin
+1229187,"Radisson Blu Hotel, Cairo Heliopolis",30.106634,31.37527,1224,3.5,an-nuzhah
+16871190,Steigenberger Pyramids Cairo,29.99369,31.125313,253,4.5,al ahram
+304481,Sofitel Cairo Nile El Gezirah,30.038597,31.224379,2987,4.5,waraq
+301697,Hilton Cairo Zamalek Residences,30.067686,31.222391,739,4,Zamalek
+15190206,Triumph Luxury Hotel,30.003809,31.402044,43,4.5,al-qahirah al jadidah
+12901747,Tolip Golden Plaza Hotel,30.0787,31.347881,63,4,Madinat Nasr 1 
+497919,Lotus Hotel,30.046738,31.237837,112,3.5,abdin
+606812,Invitation Hotel,30.09219,31.32135,78,3.5,Heliopolis
+13372858,Azar Hotel,30.051558,31.24515,19,3.5,abdin
+302715,President Hotel,30.06753,31.219505,171,3,Zamalek
+1202108,Safari Hotel,30.05317,31.24155,23,3.5,al azbakya
+2389917,Al Masa Hotel,30.061405,31.316961,438,4.5,Madinat Nasr 2
+469492,Hotel Longchamps,30.06392,31.219288,640,4.5,Zamalek
+536381,InterContinental Cairo Citystars,30.072393,31.346355,1973,4.5,Madinat Nasr 1 
+5040629,Le Meridien Cairo Airport,30.113745,31.395475,1253,4.5,Madinat Nasr 1 
+629999,Dahab Hostel,30.048067,31.23745,501,4.5,qasr el nile
+299728,JW Marriott Hotel Cairo,30.071997,31.434294,1317,4,al-qahirah al jadidah 2
+309020,Pension Roma,30.051617,31.244379,182,4,abdin
+2413606,Cairo Paradise Hotel,30.051945,31.2425,159,4.5,abdin
+1841930,Cairo Moon Hotel,30.05104,31.24217,97,4.5,abdin
+16724036,Cheers Hostel Cairo,30.051119,31.24068,20,5,abdin
+2238473,Golden Hotel,30.046389,31.237852,99,4,abdin
+13121471,Valencia Hostel,30.049446,31.240555,87,4,abdin
+1635921,Swiss Inn Hotel,30.051832,31.19828,111,4,al agouza
+15801836,The Square Boutique Hotel,30.047333,31.2387,20,4,abdin
+17464211,Pyramids Youth House,30.054863,31.243174,2,5,al azbakya
+5498745,Golden Park Hotel,30.11536,31.35248,60,3,an-nuzhah
+17662327,Nile Sky Suites Hotel,30.03476,31.22803,3,3.5,Misr al qadima
+1126089,Ismailia House Hotel,30.04436,31.23651,21,3,abdin
+2412303,Freedom Hostel,30.04829,31.242697,356,4.5,abdin
+1150283,Staybridge Suites Cairo-Citystars,30.072773,31.344442,206,4.5,Madinat Nasr 1 
+299627,Holiday Inn Cairo Maadi,29.96066,31.24795,527,4,maadi
+1065915,The Australian Hostel,30.05057,31.24181,188,4.5,abdin
+1157029,Hilton Cairo Heliopolis,30.106194,31.364872,1378,4,an-nuzhah
+817571,Holiday Inn Cairo - Citystars,30.07433,31.343868,816,4,Madinat Nasr 1 
+302711,Windsor Hotel Cairo,30.053402,31.245516,688,4,al azbakya
+13923569,Hostgram Hostel,30.049126,31.23939,109,4.5,abdin
+645738,Minerva Downtown Hostel,30.052122,31.241665,72,4.5,abdin
+2138198,Miami Cairo Hostel,30.05117,31.24059,101,4.5,abdin
+5274385,One Season Hostel,30.049438,31.24009,121,4.5,abdin
+1722944,Villa Belle Epoque,29.959452,31.26314,92,4,maadi
+15363449,Desert Moon,29.960316,31.10808,23,4.5,al ahram
+12145996,Museum House Hostel,30.046997,31.23516,49,4.5,qasr el nile
+2619597,My Hotel Cairo,30.047697,31.235025,88,4,qasr el nile
+2342533,Pyramids Inn Motel,29.972254,31.14527,62,4,al ahram
+12636131,Nile View - Zamalek,30.038557,31.222456,70,4,waraq
+631875,Arabesque Hotel,30.09219,31.32135,68,4,Heliopolis
+1799808,Travelers House,30.052572,31.242575,72,4.5,abdin
+15220635,Tahrir Plaza Suites,30.048582,31.234776,37,4,qasr el nile
+940276,Horus House Hotel,30.06396,31.2192,58,4,Zamalek
+12062145,Paradise Boutique Hotel,30.051905,31.24297,68,4,abdin
+12233101,Galaxy Royal Suites Hotel,30.017715,31.223469,30,4,Misr al qadima
+1236990,Pension Sakura,30.03893,31.23572,12,4.5,qasr el nile
+4458263,Family Palace Hotel,30.05168,31.24455,48,4.5,abdin
+17510110,Golden Star Hotel,30.046686,31.242395,4,5,abdin
+15726552,Prime Residence New Cairo,30.01751,31.494179,2,5,al-qahirah al jadidah
+2217185,Nitocrisse,30.05199,31.24456,2,5,abdin
+4714351,New President Hotel Zamalek,30.13172,31.31173,19,3.5,Zamalek
+13497661,Midtown Hostel,30.047482,31.243193,25,3.5,abdin
+1199028,Pharaohs Palace Hostel,30.048897,31.24196,14,3.5,abdin
+17793120,New Panorama Hotel,30.05193,31.2411,1,5,abdin
+14905838,Rehana Plaza Hotel,30.048635,31.380613,5,3.5,Madinat Nasr 2
+12218173,Oriental Hostel,30.038036,31.233076,13,3,qasr el nile
+1156037,Pharaoh Egypt Hotel,30.10442,31.28665,93,3,al amirya
+15073383,Hotel Velvet 1928,30.047178,31.242884,26,3,abdin
+12331289,City Hotel,30.04475,31.23708,21,3,abdin
+7796212,Horizon Shahrazad Hotel,30.05697,31.215393,65,3,al agouza
+12692010,Town View Hotel,30.01957,31.259117,45,3,al khalifah
+1931589,Venus Hotel,30.055805,31.24114,16,3.5,al azbakya
+2259760,Nile Zamalek Hotel,30.062677,31.223469,10,2.5,Zamalek
+10061266,Tolip Inn Maadi,29.97111,31.27209,13,2.5,maadi
+1183738,New Garden Palace Hotel,30.0353,31.233286,99,2,qasr el nile
+17784648,Agata Hostel,30.10431,31.28773,0,0,al amirya
+17471314,Lamar Hotel,30.09805,31.31435,0,0,Heliopolis
+17467692,Atlas International Hotels,29.8391,31.30303,0,0,helwan
+1146358,Dusit Thani LakeView Cairo,30.025833,31.45514,2983,4.5,al-qahirah al jadidah
+754516,Heliopolis Towers Hotel,30.107306,31.366083,1082,4.5,an-nuzhah
+543043,Hilton Cairo World Trade Center Residences,30.064081,31.228031,434,4,bulaq
+1411339,Le Riad Hotel de Charme,30.052237,31.261866,103,4.5,al jamalya
+10745996,"The Westin Cairo Golf Resort & Spa, Katameya Dunes",30.003187,31.52231,266,4,al-qahirah al jadidah 3
+15287422,Castle Hostel,30.059843,31.244305,311,4.5,al azbakya
+630004,Paris Hotel,30.046505,31.238108,193,4.5,abdin
+1774645,Bella Luna,30.049696,31.240086,142,4.5,abdin
+302584,Le Meridien Heliopolis,30.091454,31.336061,596,3.5,Heliopolis
+2000039,Dina's Hostel,30.05056,31.2445,134,4.5,abdin
+1202343,Wake UP Cairo Hostel,30.050379,31.235916,210,4.5,qasr el nile
+14353733,Tahrir Hostel,30.045107,31.235914,54,5,qasr el nile
+605882,Havana Hotel Cairo,30.05,31.25,184,4,al-muski
+620930,New Palace Hostel,30.05487,31.24343,151,4,al azbakya
+16744404,House of Life Cairo,29.976412,31.141066,20,5,al ahram
+13133447,Pyramids Loft Guesthouse,29.976002,31.143497,20,5,al ahram
+3412402,The Gabriel Hotel,30.103252,31.38619,92,4,Madinat Nasr 1 
+15185993,Voyage Hotel,30.05331,31.24467,37,5,al azbakya
+608588,Meramees Hostel,30.0467,31.24027,92,4,abdin
+19650680,Bella Casa Hostel,30.046532,31.2387,14,5,abdin
+12239092,Grand Agor,30.047722,31.242376,38,4.5,abdin
+602877,Talisman Hotel de Charme,30.052128,31.241692,207,4,abdin
+1526080,Cecilia Hotel,30.043058,31.239483,105,4,abdin
+15696833,Holy Sheet Hostel,30.04735,31.240072,25,4.5,abdin
+7354878,Cairo International Hostel,30.051046,31.240646,57,4.5,abdin
+1626178,Blue Bird Hotel Cairo,30.052114,31.24115,41,4.5,abdin
+1201661,Arabian Nights,30.0485,31.267378,119,4,al jamalya
+1196177,Nubian Hostel,30.04712,31.24143,67,4.5,abdin
+1456029,Berlin Hotel,30.048538,31.24098,72,4,abdin
+7792572,Travel Joy Hostel,30.05161,31.244448,26,4.5,abdin
+4162090,Cairo kingdom Hotel,30.05522,31.24414,24,4.5,al azbakya
+3819974,Isis Hotel 2,30.049156,31.236555,30,4.5,qasr el nile
+1203995,Mandarin Hostel,30.06887,31.24006,118,4,rud el farag
+13537666,Eco Inn,30.049025,31.243214,16,4.5,abdin
+3290698,Sakkara Inn Hotel,29.890823,31.214037,22,4.5,el badrshin
+302696,Maadi Hotel,29.959171,31.251215,113,3.5,maadi
+9465506,Ramses Palace Hotel,30.059109,31.246025,28,4,al azbakya
+3840552,Amin Hotel,30.045189,31.239721,42,4,abdin
+1201849,Venice Hosokawaya,30.053366,31.241571,56,4,al azbakya
+2091192,Hotel Royal,30.04798,31.241522,160,4,abdin
+17769474,Heritage Hostel,30.047636,31.2346,6,5,qasr el nile
+13483738,Three Giza Pyramids Inn,29.973686,31.14267,8,4.5,al ahram
+460113,Victoria Hotel,30.0495,31.21944,181,3.5,Zamalek
+562293,Cairo Airport Hotel,0,0,13,4,Heliopolis
+1892158,Hola Cairo Hostel,30.05299,31.24139,26,4,al azbakya
+10215186,Tolip El Narges,30.020472,31.465511,33,3.5,al-qahirah al jadidah
+13327782,Cleopatra Hotel,30.04623,31.235395,66,3.5,qasr el nile
+12317012,Meritamen Guest House,30.13163,31.31467,7,5,al-matariyah
+1484486,Museum View Hotel,30.12733,31.31868,40,4,ain shams
+543699,King Tut Hostel,30.05186,31.24162,83,4,abdin
+562295,Arabia Hotel,30.01099,31.222736,23,4,Misr al qadima
+13356465,Capital Hotel,30.05,31.25,35,4,al-muski
+582242,The Karvin Hotel,30.13339,31.31872,119,3.5,al-marj
+1203426,Sun Hotel,30.09933,31.27579,26,4,az-zawiyah al-hamra
+12663352,Chateau Lafayette,29.96075,31.24768,6,4.5,maadi
+7362933,Lyly Hotel,30.06629,31.35562,5,5,Madinat Nasr 1 
+7100069,Sakan 275,30.003752,31.490404,11,4.5,al-qahirah al jadidah 3
+1230895,Cairo Inn,30.047586,31.238335,98,3.5,abdin
+645312,Grand Hotel,30.05299,31.24179,37,3.5,al azbakya
+8788022,Tolip Family Park Hotel,30.082708,31.500898,28,3.5,al-qahirah al jadidah 2
+13563327,Cheops Pyramids Inn,30.10412,31.28223,5,4.5,al amirya
+1202039,African House Hotel,30.056223,31.244831,46,3.5,al azbakya
+636037,Canadian Hostel,30.04515,31.23722,62,4,abdin
+562833,Carlton Hotel,30.053017,31.240742,34,3.5,al azbakya
+1048064,Hotel Luna,30.04988,31.2403,93,3.5,abdin
+16736363,Piramides Kefren,29.979862,31.144766,3,5,al ahram
+12269862,The Guard Hotel,30.04809,31.32932,17,3.5,Madinat Nasr 1 
+17703179,Almokattam Homestay,30.05574,31.49196,3,4.5,al-qahirah al jadidah 2
+1447478,Alexander Hotel,30.05078,31.24448,53,4,abdin
+1591666,Cairo Palace,30.0539,31.24456,19,4,al azbakya
+16867951,Royal Maadi Hotel,29.96873,31.3708,3,4.5,maadi
+4257316,Star Plaza Hotel,0,0,15,3.5,el dooki
+2265208,Mesho Inn Hostel,30.12577,31.29571,28,4,abdin
+3844474,Navy Hotel - Kased Khair,30.040277,31.226358,5,4.5,Bulaq el dakroor
+3842763,Ciao Cairo Hotel,30.087349,31.255745,3,4.5,al sharbya
+3223424,Kirotel,30.10686,31.25941,5,4.5,az-zawiyah al-hamra
+12536907,Grand Lyly Hotel,30.05128,31.24319,8,3.5,abdin
+317566,Mayfair Hotel,30.059542,31.220833,75,3,Zamalek
+9731043,Glorious Hotel,30.07996,31.28584,19,3.5,al-wayli
+2485189,Monte Cairo Suites,30.00994,31.2907,8,4,al-muqattam
+6228677,Diocesan Guest House,30.05848,31.22374,3,4.5,Zamalek
+1986108,Sultan Hotel,30.05317,31.24155,5,4.5,al azbakya
+3854041,Sky Executive Resort,0,0,2,5,al-qahirah al jadidah
+1473064,Happyton Hotel,30.05617,31.24577,5,5,al azbakya
+1831336,New Hotel,30.05133,31.242794,8,3.5,abdin
+568827,Select Hotel,30.07463,31.27152,13,3.5,al-wayli
+1194663,Marwa Palace Hotel,30.08374,31.25536,8,3.5,al sharbya
+2698621,Maadi Int. Center & Apartment,29.960814,31.259966,4,4.5,maadi
+12405214,Sufi House,30.05235,31.24273,5,4,abdin
+1017536,Happy City Hotel,30.04633,31.24394,54,3,abdin
+562277,Capsis Palace Hotel,30.062052,31.248882,29,3.5,al azbakya
+17462574,Pyramids Oasis Hotel,30.055807,31.24438,8,3.5,al azbakya
+15619172,Grand Palace Hotel,29.97179,31.41409,8,3.5,al-qahirah al jadidah 3
+3856938,Hostel Vienna,30.047937,31.237368,19,3.5,qasr el nile
+15467003,1920s Boutique Hotel and Restaurants,30.093023,31.32833,7,3.5,Heliopolis
+562838,Horreya Hotel,30.08762,31.33948,8,3.5,Heliopolis
+15398587,Miramar Downtown Hotel,30.0448,31.2373,22,3.5,abdin
+15518244,Oasis Hotel,30.09219,31.32135,4,4,Heliopolis
+3856495,Rotana Hotels & Resorts,0,0,3,4.5,Heliopolis
+2262334,Pearl Hotel,30.11351,31.71076,29,3,Madinat Badr
+17483870,Nile Meridien Hotel,30.04837,31.23893,4,4,abdin
+1484012,Japan Palace Hotel,30.051874,31.241432,3,4.5,abdin
+2478156,Milano Hostel,30.051157,31.244516,27,3.5,abdin
+20056771,Horizon Nile Plaza Hotel,30.018076,31.22324,1,5,Misr al qadima
+13953090,Downtown inn,30.05193,31.2411,1,5,abdin
+562498,Al Nabila Cairo Hotel,30.059093,31.250076,33,3,bab ash shariyah
+15063369,City Hostel,30.05378,31.24819,1,5,al-muski
+17667432,Tohfa Luxury Apartment,30.07103,31.45837,1,5,al-qahirah al jadidah
+3856020,Scarabee Boat,30.061012,31.219612,10,3.5,Zamalek
+17649658,Nour Hostel,30.05117,31.24059,1,5,abdin
+12295471,Cairo Heart Hotel,30.04526,31.23829,8,3.5,abdin
+15511373,Pyramids View Bed & Breakfast,0,0,1,5,al ahram
+17445007,Arabella Residence,29.99129,31.42743,1,5,al-qahirah al jadidah 3
+12683729,Cairo Golden Plaza Hotel,30.05117,31.24059,2,4,abdin
+599385,Ramses II Hostel,30.14196,31.33534,25,3.5,al-marj
+3849621,Hamburg Hotel,30.14288,31.34683,3,3.5,al-marj
+17668019,Crown Hotel,30.048676,31.243248,25,3.5,abdin
+8088584,Nile Boutique,29.97373,31.23515,21,3,dar as-salam
+15681186,Veltvet 1915,30.0503,31.24002,3,3.5,abdin
+2141856,El Tonsy Hotel,30.039404,31.217709,43,3.5,el dooki
+1045187,Nile Garden Hotel,30.0265,31.22377,10,3,Misr al qadima
+1475114,Atlas Hotel,30.13113,31.3091,4,3.5,abdin
+3847377,City Hotel,30.05389,31.24788,1,5,al azbakya
+1203863,Richmond House Hostel,30.12577,31.29571,3,3.5,abdin
+3258649,River Nile Hostel,30.01413,31.22867,1,5,Misr al qadima
+3847760,South Sinai Hotels,30.09186,31.34437,1,5,Heliopolis
+3849660,El Malky Hotel,30.04787,31.26414,1,5,al jamalya
+309019,Odeon Palace Hotel,30.05047,31.23894,18,3,qasr el nile
+19984679,Capital Hotel,30.04807,31.239897,1,4,abdin
+2009683,Magy Hotel,30.06108,31.24501,2,4,al azbakya
+1201610,Triumph Hotel,30.08655,31.30312,113,3,Heliopolis
+562839,Hor Moheb Hotel,29.99286,31.12554,19,3,al ahram
+12793105,Travelholic Hostel,30.05717,31.447668,6,3.5,al-qahirah al jadidah
+559403,Beirut Hotel,30.090082,31.334,34,3,Heliopolis
+18922185,Eden Hostel,30.04712,31.24143,2,3.5,abdin
+3853905,Sun Smile Hotel,30.08375,31.34727,3,3.5,Heliopolis
+1464115,Cairo Center Hotel,30.051125,31.241175,36,3.5,abdin
+1181848,Minamar Museum Hotel,30.04763,31.23494,7,3.5,qasr el nile
+3849797,New Star Hotel,30.06127,31.22345,1,4,Zamalek
+12910823,Cairo Home Hostel,30.14618,31.2337,3,3.5,abdin
+3854037,Heliopolis House Hotel,30.09476,31.32165,2,3.5,Heliopolis
+1832797,Residence Hotel,30.14223,31.3963,5,3,salam 1 
+1635120,Nileview Bed And Breakfast,0,0,1,5,maadi
+1675634,Cairo Stars Hotel,30.05097,31.24448,11,2.5,abdin
+629974,Sara Inn Hostel,30.046,31.23946,40,4,abdin
+469495,El Hussein Hotel,29.96903,31.26541,14,3.5,maadi
+12406927,Nile Hunters Suites & Apt,30.03505,31.22967,9,3,qasr el nile
+1775491,Classic Plaza Hostel,30.05274,31.24284,1,4,abdin
+5616188,New City Suites & Apartments,30.018808,31.495699,22,3,al-qahirah al jadidah
+562831,Cairotel Hotel,29.959969,31.250078,2,3.5,maadi
+665439,Blue Lotus Guesthouse,0,0,2,3.5,el badrshin
+3840975,Engineering Authority Guest House,0,0,3,3,Heliopolis
+17464528,New City Hotel,30.045181,31.23733,2,3,abdin
+562290,Raja Medotel Hotel,30.07816,31.23582,1,3,rud el farag
+3854050,Everest Hotel,30.06187,31.24728,1,3,al azbakya
+3850106,Green Valley Hotel,30.044865,31.236227,1,3,abdin
+460112,King Hotel,30.040956,31.214462,198,3,Bulaq el dakroor
+562286,Cairo Khan Suites Hotel,30.0618,31.2102,26,3,al agouza
+3456398,Amoun Hotel,30.061327,31.20749,2,3,al agouza
+7744714,Tolip El Galaa Hotel Cairo,30.098316,31.349081,70,3,an-nuzhah
+1081651,Kings Palace Hotel,30.04755,31.23972,34,3.5,abdin
+850563,Pyramids View Hotel,30.14537,31.3946,45,2.5,salam 1 
+1591058,Manial Youth Hostel,0,0,7,3,abdin
+3846972,Maxim Hotel,30.06725,31.33606,6,2.5,Madinat Nasr 1 
+7809015,Heliopolis Rock Residence,30.10845,31.38262,8,3,Madinat Nasr 1 
+7202270,El Ezba Resort,29.937555,31.196728,9,2.5,el giza
+1471397,Fontana Hotel,29.78134,31.29411,6,3.5,al tibbin
+1213748,Regency Hotel,30.09503,31.33113,2,2,Heliopolis
+309018,Cosmopolitan Hotel,30.14632,31.32221,68,2.5,al-marj
+562292,Sheherazade Hotel,30.05301,31.24196,9,2,al azbakya
+13281593,Cairo Hotel,30.08684,31.24628,7,3.5,al sahl
+1203348,Rotana Palace,30.05186,31.24162,9,2.5,abdin
+562291,Santana Hotel,30.02651,31.22498,95,3,Misr al qadima
+302717,Salma Hotel,30.04821,31.34081,18,2.5,Madinat Nasr 1 
+967744,Caroline Crillon Hotel,0,0,36,3,al agouza
+4037664,Royal City Center,30.04319,31.24505,1,1,abdin
+17500019,Trio Caroline Hotel,30.052307,31.194883,1,2,al agouza
+3842744,New Helwan Hotel,30.12577,31.29571,1,1,helwan
+3856131,Gloria Hotel,30.057138,31.244253,3,2.5,al azbakya
+302714,Om Kolthoom Hotel & Tower,30.0601,31.23,83,3,bulaq
+1963496,Qabana hostel,30.05078,31.24448,3,1.5,abdin
+2708288,Helnan Landmark Hotel,30.017054,31.431374,81,3,al-qahirah al jadidah
+1955523,Oasis Hotel,30.01394,31.103289,109,3,Heliopolis
+1777534,Mayorca Hotel,30.14477,31.35003,39,3,al-marj
+1201832,Desert Safary Hostel,30.11368,31.29494,1,1,al amirya
+308073,Concord Hotel,30.039736,31.217545,127,3,el dooki
+13121576,Colour Holidays,30.13327,31.2745,4,2.5,Heliopolis
+562289,Kanzy Hotel,29.97757,31.25692,7,2.5,dar as-salam
+1488434,Tiba Pyramids Hotel,29.986458,31.141579,91,2.5,al ahram
+302704,Garden City House,0,0,22,3,imbaba
+7183405,Cairo Plaza Guest House,30.048351,31.242472,4,2.5,abdin
+754473,Caesar's Palace Hotel,30.10898,31.335497,9,2.5,an-nuzhah
+17837545,Miramar Talaat Harb Hotel,30.047789,31.23863,3,2.5,abdin
+1931326,Garden View Hostel,30.02736,31.24483,3,2,sayda zeinab
+17517989,Ambiance Cairo Hotel,30.04839,31.23871,2,2,abdin
+562837,Dreamers Hotel,30.15807,31.31054,3,2.5,el dooki
+2268389,Tiab House Hotel,30.10396,31.31908,3,2,az-zaytun
+12420829,Cairo View Hotel,30.05301,31.24196,1,1,al azbakya
+10054759,New Marina Hostel,30.045244,31.238539,2,2,abdin
+13347525,Golden Carven Hotel,30.088104,31.338808,11,2.5,Heliopolis
+3849312,Ebied House Hotel,30.11028,31.32948,1,1,an-nuzhah
+611051,Lialy Hostel,30.04775,31.23862,10,2.5,abdin
+1194658,Jasmin Hotel,0,0,0,0,el giza
+17591563,Abdeen Palace Hotel,30.045502,31.24348,7,2.5,abdin
+1580298,Omayad Hotel,30.047907,31.233625,3,1.5,qasr el nile
+1763999,Helio Cairo Hotel,30.108246,31.373135,8,2,an-nuzhah
+14100553,New Grand Royal Hotel Cairo,0,0,13,3,abdin
+19786933,Sunset Hotel Cairo,30.045782,31.243315,1,5,abdin
+2216290,Rose Hotel,30.038937,31.209925,5,2,el dooki
+7744510,Jewel Sports City and Aqua Park,30.045973,31.4025,54,2.5,Madinat Nasr 1 
+3853859,Suisse Hotel,30.04819,31.23743,6,2,qasr el nile
+1727899,Cairo City Center Hotel,30.048283,31.236057,72,2.5,qasr el nile
+16855140,Panorama Ramsis Hotel,30.062115,31.246965,2,1,al azbakya
+308098,Royal Marshal Hotel,30.086891,31.29976,27,3,Heliopolis
+302700,Delta Pyramids Hotel,29.991302,31.13726,130,2,al ahram
+9737209,Armed Force Zamalek Hotel,30.061413,31.219246,3,1,Zamalek
+13338572,Nile Plaza Hostel,30.050598,31.243591,10,2,abdin
+3574651,Heliopark Hotel,30.095634,31.31964,19,2,Heliopolis
+1196375,Bedouin Hostel,30.04712,31.24143,24,2.5,abdin
+16765598,Gardenia Hotel,30.05093,31.24041,11,2,abdin
+1942329,Tulip Hotel,30.047148,31.23854,15,3.5,abdin
+1592677,Jasmine Hotel,30.0943,31.32272,5,3.5,Heliopolis
+1157304,Gresham Hotel,30.1462,31.32299,15,1.5,al-marj
+19258468,Cairo Plaza Hotel,30.048199,31.242554,2,4.5,abdin
+16731191,Down Town Hotel Cairo,30.049292,31.243513,0,0,abdin
+1236260,Bostan Hotel,30.09968,31.27122,32,3,az-zawiyah al-hamra
+1204057,Regent House Hostel,30.04924,31.23933,11,2.5,abdin
+3644862,Al-Manar Hotel,30.049,31.34937,16,2,Madinat Nasr 1 
+1896808,Jamaica Hostel,30.05065,31.24311,11,2.5,abdin
+3842295,Holiday Home Hotel,30.102266,31.326996,4,2,Heliopolis
+496740,Europa Hotel,30.000696,31.17759,42,1.5,al ahram
+2656859,New Garden Palace Nile Suites,30.039,31.23118,0,0,qasr el nile
+11881729,Chez Martine,30.07013,31.22097,0,0,Zamalek
+15815326,Palm City,30.08249,31.34242,0,0,Madinat Nasr 1 
+2262497,Harmony Hostel,30.05067,31.24283,0,0,abdin
+20169332,Maadi Chilling Spot,29.956358,31.255392,0,0,maadi
+20266087,limitless Hostel,30.04844,31.24428,0,0,abdin
+3856916,El Opera Hotel,30.04987,31.24758,0,0,al-muski
+19339425,Grand Nile Plaza,30.05055,31.24367,0,0,abdin
+3856826,Samar Palace Hotel,30.06634,31.27719,0,0,al-qahirah al jadidah 2
+3856268,El Ahd El Gadid Hotel,0,0,0,0,al sharbya
+3854281,New Cecil Hotel,30.0578,31.24435,0,0,al azbakya
+20314047,Castle Hotel,30.042973,31.241581,0,0,abdin
+20159536,Midas Hotel,30.09999,31.27309,0,0,az-zawiyah al-hamra
+3853888,Big Ben Hotel,30.05829,31.24451,0,0,al azbakya
+16867210,Tamayz Saudia,30.052208,31.200474,0,0,al agouza
+20217864,Columbia Hotel,0,0,0,0,qasr el nile
+15837212,Maadi Royal Palace,29.96728,31.26379,0,0,maadi
+20003586,Pharaohs Palace Hotel Cairo,0,0,0,0,abdin
+302707,Hotel Bel Air,30.08374,31.25536,0,0,al sharbya
+15836444,Family Homes Apartment,29.95745,31.27836,0,0,maadi
+17532854,Makram Ebeid Apartment,30.059,31.34519,0,0,Madinat Nasr 1 
+15321036,Osiris House,30.1273,31.37333,0,0,an-nuzhah
+3849863,New Extady Hotel,0,0,0,0,al azbakya
+15783135,Seedspace Cairo,0,0,0,0,maadi
+3849729,New Rich Hotel,30.04899,31.25005,0,0,al-muski
+3849702,El Ataba Hotel,30.04801,31.24916,0,0,al-muski
+3849338,El Mousky Hotel,0,0,0,0,al-muski
+3849219,Happy Dreams Hotel,30.096203,31.255901,0,0,al sharbya
+1636337,Aman Hotel,30.09658,31.32716,0,0,Heliopolis
+3847709,El Rihany Hotel,30.05579,31.24785,0,0,al azbakya
+19863496,Oasis Heliopolis hotel,30.08415,31.34253,0,0,Heliopolis
+3847249,El Islamy Hotel,30.10785,31.30785,0,0,az-zaytun
+17580854,Hadie N Family Apartment Near The Airport,30.066687,31.357283,0,0,Madinat Nasr 1 
+19843984,El Karnak Hostel,30.056355,31.345594,0,0,Madinat Nasr 1 
+12899820,Nour Elsabah Hotel,30.04764,31.26244,0,0,al jamalya
+20100272,Zamalek Serviced Apartments By Brass Bell,30.06447,31.215702,0,0,Zamalek
+7138069,La Villa Hostel,29.98375,31.43109,0,0,al-qahirah al jadidah 3
+15779356,Excellent furnished Duplex,30.050173,31.19806,0,0,el dooki
+20071040,Safari Hotel,30.05407,31.240978,0,0,al azbakya
+3844092,Horus Hotel,30.05351,31.30966,0,0,Madinat Nasr 2
+19377783,Makram Ebeid Apt,30.0661,31.34462,0,0,Madinat Nasr 1 
+20303601,Golden Palace Hotel,0,0,0,0,abdin
+19788655,Zamalek Suites,30.06347,31.22091,0,0,Zamalek
+12924410,Louris Inn,30.0539,31.24456,0,0,al azbakya
+3842659,Abou El Houl Hotel,30.050571,31.25069,0,0,al-muski
+17627626,Alfalfa,30.0515,31.35664,0,0,Madinat Nasr 1 
+3842373,Border Guards Officers Guest House,30.054342,31.218315,0,0,Zamalek
+3842313,Gabaly Hotel,30.11536,31.35248,0,0,an-nuzhah
+3840955,Claridge Hotel,30.09999,31.27309,0,0,az-zawiyah al-hamra
+3840769,Baghdad Hotel,30.15077,31.39772,0,0,salam 1 
+14008117,Rush Hostel,30.01847,31.22502,0,0,Misr al qadima
+13149467,Nakhil Residence,30.13781,31.32174,0,0,al-marj
+1626014,Perfect Hostel,30.10475,31.25831,0,0,az-zawiyah al-hamra
+18188434,Princess Apartments,30.10311,31.37892,0,0,an-nuzhah
+19936434,New Aleegiance Hotel,30.05204,31.24189,0,0,abdin
+12786680,Cairo Panorama Hotel,30.05576,31.23372,0,0,bulaq
+17723218,Arkan Furnished Appartments For Rent,0,0,0,0,al agouza
+13299206,Chez Nagy in Cairo,29.917,31.2874,0,0,al-ma3sara
+19826231,Apartment in Abbassia Abdou Pasha,30.064825,31.27479,0,0,al-qahirah al jadidah 2
+16640301,Private Room In Apartment,30.10043,31.31839,0,0,Heliopolis
+16690684,Horus Guest House Pyramids View,30.15342,31.28718,0,0,al ahram
+17769399,Grand City,30.04475,31.23708,0,0,abdin
+15814772,Maadi Royal Serviced Apartements,29.95749,31.27784,0,0,maadi
+17515310,Horizon Loaloat Elnile,0,0,0,0,dar as-salam
+12527818,The St Regis Cairo,30.059502,31.258465,0,0,bab ash shariyah
+3159071,Radwan Hotel,30.046228,31.265072,0,0,al jamalya
+17458485,CairoStarsCharming,30.05097,31.24448,0,0,abdin
+1872525,Pension VillaSophia,30.10651,31.27311,0,0,az-zawiyah al-hamra
+17508665,Gulf Tower,30.05458,31.19797,0,0,al agouza
+20234799,Egypt Smile Touring,29.96513,31.0206,0,0,6th of october
+17508633,Ultra Loaloa Nile Maadi Hotel,29.950205,31.262564,0,0,maadi
+15708331,Zamalek Luxurious Apartments,30.06399,31.22024,0,0,Zamalek
+20234344,My Cairo Travel,30.047691,31.234665,0,0,qasr el nile
+15398908,Panorama Palace Hotel,29.90946,31.29373,0,0,15 mayu
+4081982,Allegiance Hotel,30.05286,31.24287,0,0,al azbakya
+17608646,Shaqaq Funduqih Fi Mudinih Nasr,30.04442,31.235712,0,0,abdin
+17607403,Zamalek Room Rental 2,30.060942,31.21971,0,0,Zamalek
+2227040,New Cairo Moon Hotel,30.11684,31.26663,0,0,abdin
+10199726,Sufi Nights Hostel,30.06042,31.22137,0,0,Zamalek
+3842755,El Lewaa Hotel,30.07105,31.2483,0,0,shobra
+20125772,Masjed Elkods,30.0125,31.30766,0,0,al-muqattam
+12666463,The Garden Hostel,30.038067,31.22982,0,0,qasr el nile
+629976,Ain Shams Obelisk Hostel,30.1312,31.31783,0,0,al-matariyah
+20329526,Blue Paradise House,29.95918,31.24871,0,0,maadi
+17602791,Mohandessin Apartments,30.050488,31.193674,0,0,al agouza
+20099094,Moon Light Hotel Cairo,30.080975,31.348978,0,0,Madinat Nasr 1 
+19790578,El-Adel Hostel,30.04442,31.235712,0,0,abdin
+12898956,City Plaza Hostel,30.05274,31.24284,0,0,abdin
+19453844,Gulf Tower,29.97062,31.4129,0,0,al-qahirah al jadidah 3
+20049138,Queen Pyramids Cleopatra,29.975721,31.14099,0,0,al ahram
+13228142,The Hanok Hostel in Cairo,29.81617,31.30003,0,0,helwan
+13999654,Welcome Arabesque,30.13772,31.28378,0,0,al-wayli
+3403509,Nefertary Hostel,30.14916,31.32475,0,0,al-marj
+3849242,El Gharabawy Hotel,30.048426,31.248837,0,0,al-muski
+20263190,Nile View,29.96045,31.2478,0,0,maadi
+15333860,Wasatalbalad Inn,30.05193,31.2411,0,0,abdin
+15333833,Tea For Two,30.03153,31.34935,0,0,Madinat Nasr 1 
+20322632,Safary Hotel,0,0,0,0,al azbakya
+17596402,Maadi Apartments,29.96099,31.2783,0,0,maadi
+15580570,Nasrcity Club House,30.06078,31.35681,0,0,Madinat Nasr 1 
+13942832,Town Hotel,30.05009,31.23995,0,0,abdin
+17638168,Caesars Hotel Heliopolis,30.11001,31.33315,0,0,an-nuzhah
+16719727,Old Cairo,30.054855,31.243118,0,0,al azbakya
+15072739,Nile Palace Hotel,30.04901,31.24356,0,0,abdin
+15637450,Two-Bedroom Apartment In Sheraton Al Matar,30.105007,31.372206,0,0,an-nuzhah
